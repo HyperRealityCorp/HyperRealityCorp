@@ -1,4 +1,5 @@
 # HyperRealityCorp
 HyperRealityCorp
 
-- Ben @goluter
+# TODO 테이블
+- 강주영  [@goluter] (https://www.github.com/goluter)
